@@ -1,0 +1,19 @@
+POST https://www.lagou.com/jobs/positionAjax.json?px=default&city=%E4%B8%8A%E6%B5%B7&needAddtionalResult=false HTTP/1.1
+Host: www.lagou.com
+Connection: keep-alive
+Content-Length: 25
+Sec-Fetch-Mode: cors
+X-Anit-Forge-Code: 0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3833.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Anit-Forge-Token: None
+Origin: https://www.lagou.com
+Sec-Fetch-Site: same-origin
+Referer: https://www.lagou.com/jobs/list_python?px=default&city=%E4%B8%8A%E6%B5%B7
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh;q=0.8,zh-TW;q=0.7,zh-CN;q=0.6
+Cookie: user_trace_token=20190704214902-2097a494-6271-452e-8fcc-d49513f8ab0b; _ga=GA1.2.956320602.1562248145; LGUID=20190704214903-7c073fac-9e62-11e9-a4da-5254005c3644; _gid=GA1.2.558308361.1562248172; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216bbd3f542e49-06491b58509247-6653792a-2073600-16bbd3f542f28f%22%2C%22%24device_id%22%3A%2216bbd3f542e49-06491b58509247-6653792a-2073600-16bbd3f542f28f%22%7D; showExpriedIndex=1; showExpriedCompanyHome=1; showExpriedMyPublish=1; hasDeliver=0; index_location_city=%E5%85%A8%E5%9B%BD; privacyPolicyPopup=false; LG_HAS_LOGIN=1; JSESSIONID=ABAAABAAAGGABCBFF6CF84D89CB42AAE71F113BDAA064FA; LGSID=20190706113239-b45fd2d4-9f9e-11e9-bd39-525400f775ce; Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1562343357,1562344527,1562347202,1562383963; TG-TRACK-CODE=index_search; _gat=1; X_HTTP_TOKEN=fe01ab9bb8fccbcd21858326510ddcc6c04a059e51; Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1562385816; LGRID=20190706120333-056369b9-9fa3-11e9-a4da-5254005c3644; SEARCH_ID=114bf0d64545489180f8859ed2dbf04e
+
+first=true&pn=1&kd=python
