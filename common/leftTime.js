@@ -10,3 +10,11 @@ function leftTimer(year,month,day,hour,minute,second){
   seconds = checkTime(seconds); 
   document.getElementById("timer").innerHTML = days+" 天 " + hours+" 小时 " + minutes+" 分 "+seconds+" 秒 ";  
 } 
+
+function checkTime(i){ 
+  if(i<10) 
+  { 
+    i = "0" + i; 
+  } 
+  return i; 
+}
